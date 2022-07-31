@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Cpilat41
 - 👀 I'm a Full Stack Web Developer
+- 🪄 Web Dev skills include: HTML, CSS, Javascript, MERN - MongoDB, Expess, React, Node.js, Mongoose
+- 🧩 Other skills - Canva, Balsamiq, VS Code, SEO, Microsoft Office, 
 - 🥷 I recently finished a 4 month bootcamp at Coding Dojo
 - ♻️ Sustainability is my passion!
 - 🔍 Other interests include traveling 🗺️, hiking ⛰️, music 🎺, crochet 🧶 & art 🖌️
