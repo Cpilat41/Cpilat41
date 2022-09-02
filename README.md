@@ -6,7 +6,7 @@
 </hr>
 <h4>I'm a recent Web Developement graduate from Coding Dojo looking forward to continuing my web development education as well as looking towards my next development career opportunity. </h4></hr>
 
-🪄 Web Dev skills include: HTML, CSS, Javascript, MERN - MongoDB, Expess, React, Node.js, Mongoose<br>
+🪄 Web Dev skills include: HTML, HTML5, CSS, Javascript, MERN - MongoDB, Expess, React, Node.js, Mongoose<br>
 🧩 Other skills - Postman, Canva, Balsamiq, VS Code, SEO, Microsoft Office <br>
 🥷 4 month bootcamp at Coding Dojo <br>
 ♻️ Sustainability is my passion! <br>
