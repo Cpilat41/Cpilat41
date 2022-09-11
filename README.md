@@ -4,7 +4,7 @@
 </hr>
 <h3>📍Tampa Bay, Florida based - but very willing to relocate</h3>
 </hr>
-<h4>I'm a recent Web Developement graduate from Coding Dojo looking forward to continuing my web development education as well as looking towards my next development career opportunity. </h4></hr>
+<h4>I'm a recent Web Development graduate from Coding Dojo looking forward to continuing my web development education as well as looking towards my next development career opportunity. </h4></hr>
 
 🪄 Web Dev skills include: HTML, HTML5, CSS, Javascript, MERN - MongoDB, Expess, React, Node.js, Mongoose<br>
 🧩 Other skills - Postman, Canva, Balsamiq, VS Code, SEO, Microsoft Office <br>
